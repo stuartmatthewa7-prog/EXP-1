@@ -44,12 +44,15 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="1030" height="579" alt="ex11" src="https://github.com/user-attachments/assets/d1aa813a-8f55-4e94-a3a4-7ac6353dbbbc" />
+ <img width="1673" height="940" alt="Top-Down Circuit Schematic with Meters (1)" src="https://github.com/user-attachments/assets/fdad2a3c-6fdf-48fb-b6b3-050e09ac1302" />
+
 
 
 
 b.  KCL:
-<img width="886" height="478" alt="ex1" src="https://github.com/user-attachments/assets/0df6eb90-e375-4336-920b-bd13f873f62f" />
+
+<img width="886" height="478" alt="ex1_no_blue_dot" src="https://github.com/user-attachments/assets/57675d52-2759-4a27-a256-1822aa40289b" />
+
 
  
 
